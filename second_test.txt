@@ -1,0 +1,2 @@
+emm, this is my second text file in repo "Garage", what will happen if i add this file and commit? 
+Let's see.
